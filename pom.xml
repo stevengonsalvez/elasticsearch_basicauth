@@ -12,7 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <elasticsearch.version>1.4.0</elasticsearch.version>
+        <elasticsearch.version>6.8.17</elasticsearch.version>
         <lucene.version>4.10.2</lucene.version>
         <lucene.maven.version>4.10.2</lucene.maven.version>
     </properties>
